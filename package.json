@@ -1,0 +1,23 @@
+{
+  "name": "puppeteertests",
+  "version": "1.0.0",
+  "description": "Puppeteer Tests",
+  "main": "HomePage.js",
+  "dependencies": {
+    "puppeteer": "^1.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romecam16/PuppeteerTests.git"
+  },
+  "author": "cromerol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romecam16/PuppeteerTests/issues"
+  },
+  "homepage": "https://github.com/romecam16/PuppeteerTests#readme"
+}
